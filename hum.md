@@ -145,5 +145,3 @@ Android is a trademark of GOOGLE LLC.
 Google is a trademark of GOOGLE INC.
 
 ---------------------
-
-Displaying github usermanual.txt.
